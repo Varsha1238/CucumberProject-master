@@ -1,3 +1,5 @@
 This is testing filecsdfdsf
 
 Added from new folder2Updated
+
+Added new line
